@@ -1,0 +1,16 @@
+{
+  "name": "vuepress-plugin-handle-sidebar",
+  "version": "1.0.0",
+  "description": "VuePress automatically generates directories, custom directories。vuepress 自动生成目录，自定义目录",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "javascript",
+    "vuepress",
+    "nodejs"
+  ],
+  "author": "LiuYang <984584014@qq.com> (https://github.com/web-liuyang)",
+  "bugs": "https://github.com/web-liuyang/vuepress-plugin-handle-sidebar/issues",
+  "repository": "https://github.com/web-liuyang/vuepress-plugin-handle-sidebar",
+  "license": "MIT"
+}

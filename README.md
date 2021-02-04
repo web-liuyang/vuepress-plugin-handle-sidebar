@@ -1,2 +1,5 @@
 # vuepress-plugin-handle-sidebar
-VuePress automatically generates directories, custom directories。vuepress 自动生成目录，自定义目录
+[文档请点击这里](http://liuyang.xhjrbkp.com/vue/vuepress/#%E4%BB%8B%E7%BB%8D)
+
+链接：http://liuyang.xhjrbkp.com/vue/vuepress/#%E4%BB%8B%E7%BB%8D
+
