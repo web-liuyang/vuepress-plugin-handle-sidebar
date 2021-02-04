@@ -112,6 +112,3 @@ module.exports.getSidebar = function (options) {
   if (options.handleSidebar) sidebar = options.handleSidebar(sidebar) || sidebar;
   return sidebar;
 };
-
-
-console.log(getFileinfo('test'))
